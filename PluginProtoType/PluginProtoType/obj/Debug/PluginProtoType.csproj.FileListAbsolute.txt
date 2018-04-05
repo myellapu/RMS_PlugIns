@@ -1,0 +1,15 @@
+C:\Users\myellapu\PluginProtoType\PluginProtoType\obj\Debug\PluginProtoType.csprojResolveAssemblyReference.cache
+C:\Users\myellapu\PluginProtoType\PluginProtoType\obj\Debug\PlugInProtoType.FactSetDemo.resources
+C:\Users\myellapu\PluginProtoType\PluginProtoType\obj\Debug\PluginProtoType.Properties.Resources.resources
+C:\Users\myellapu\PluginProtoType\PluginProtoType\obj\Debug\PluginProtoType.csproj.GenerateResource.Cache
+C:\Users\myellapu\PluginProtoType\PluginProtoType\obj\Debug\PluginProtoType.csproj.CoreCompileInputs.cache
+C:\Users\myellapu\PluginProtoType\PluginProtoType\bin\Debug\PluginProtoType.dll
+C:\Users\myellapu\PluginProtoType\PluginProtoType\bin\Debug\PluginProtoType.pdb
+C:\Users\myellapu\PluginProtoType\PluginProtoType\bin\Debug\PluginProtoType.dll.manifest
+C:\Users\myellapu\PluginProtoType\PluginProtoType\bin\Debug\PluginProtoType.vsto
+C:\Users\myellapu\PluginProtoType\PluginProtoType\bin\Debug\PluginProtoType.xlsx
+C:\Users\myellapu\PluginProtoType\PluginProtoType\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\myellapu\PluginProtoType\PluginProtoType\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\myellapu\PluginProtoType\PluginProtoType\obj\Debug\PluginProtoType.dll
+C:\Users\myellapu\PluginProtoType\PluginProtoType\obj\Debug\PluginProtoType.pdb
+C:\Users\myellapu\PluginProtoType\PluginProtoType\obj\Debug\PluginProtoType.BrowserForm.resources
